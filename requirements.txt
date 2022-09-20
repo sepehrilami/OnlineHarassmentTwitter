@@ -1,0 +1,6 @@
+python
+numpy
+pandas
+tweepy
+textblob
+vaderSentiment
